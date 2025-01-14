@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ageofellis
+- 👋 Hi, I’m @ellis.hq
 - 👀 I’m interested in building new tech!
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on projects that will help make the world a better place.
